@@ -1,0 +1,6 @@
+﻿  Engine.cpp
+C:\Users\Diogo\source\repos\GameEngine\GameEngine\src\Engine.cpp(108,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Diogo\source\repos\GameEngine\GameEngine\src\Engine.cpp(109,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Diogo\source\repos\GameEngine\GameEngine\src\Engine.cpp(209,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Diogo\source\repos\GameEngine\GameEngine\src\Engine.cpp(210,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Game Engine.vcxproj -> C:\Users\Diogo\source\repos\GameEngine\bin\Debug-x64\Engine\Engine.lib
